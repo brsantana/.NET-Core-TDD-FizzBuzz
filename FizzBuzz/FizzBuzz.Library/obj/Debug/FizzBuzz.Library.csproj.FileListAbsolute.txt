@@ -1,0 +1,5 @@
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.dll
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.pdb
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.csproj.CoreCompileInputs.cache
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.dll
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.pdb

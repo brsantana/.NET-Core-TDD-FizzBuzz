@@ -1,0 +1,9 @@
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.Library.dll
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.Library.pdb
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csprojAssemblyReference.cache
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csproj.CopyComplete
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.exe
+/Users/bruno/Projects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.pdb

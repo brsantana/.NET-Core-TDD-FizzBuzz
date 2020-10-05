@@ -1,15 +1,31 @@
 ﻿<Properties StartupConfiguration="{4C50C100-5544-431C-BEB1-8FFE3646AA41}|Default">
-  <MonoDevelop.Ide.ItemProperties.FizzBuzz FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="15" Column="6" />
+      <File FileName="FizzBuzz.Library/MyClass.cs" Line="26" Column="25" />
+      <File FileName="FizzBuzz.Library.Tests/MyClass.cs" Line="21" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FizzBuzz" expanded="True">
-            <Node name="FizzBuzz" expanded="True">
-              <Node name="Program.cs" selected="True" />
+          <Node name="FizzBuzz" expanded="True" selected="True">
+            <Node name="FizzBuzz" expanded="True" />
+            <Node name="FizzBuzz.Library" expanded="True" />
+            <Node name="FizzBuzz.Library.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" expanded="True" selected="True">
+            <Node name="FizzBuzz.Library.Tests" expanded="True">
+              <Node name="FizzBuzz.Library.Tests" expanded="True">
+                <Node name="FizzBuzzerTests" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
